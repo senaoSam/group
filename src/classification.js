@@ -37,7 +37,8 @@ function calGroup(joinList) {
   else {
     randomSort = [ ...joinList ].sort(randomSortFn);
   }
-  const team1 = randomSort.splice(Math.random() - 0.5 > 0 ? 0 : 5, 5).sort(randomSortFn);
+  const half = leng / 2;
+  const team1 = randomSort.splice(Math.random() - 0.5 > 0 ? 0 : half, half).sort(randomSortFn);
   const team2 = randomSort.sort(randomSortFn);
 
 

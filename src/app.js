@@ -62,6 +62,7 @@ export default function App(props) {
           {joinList.map((targetIdx) => <span key={targetIdx} className='mr-2'>{pool[targetIdx]}</span>)}
         </div>
       </div>
+      {blueList.length !== 0 && (
       <div className='d-flex flex-column'>
         <span>分組結果</span>
         <div className='d-flex' style={{ 'justifyContent': 'space-between' }}>
@@ -75,6 +76,7 @@ export default function App(props) {
           </div>
         </div>
       </div>
+      )}
       <div className='d-flex flex-column'>
         <div className='d-flex' style={{ 'alignItems': 'center' }}>
           <div style={{ 'userSelect': 'none', 'cursor': 'pointer' }} onClick={() => setShowPool((pre) => !pre)}>

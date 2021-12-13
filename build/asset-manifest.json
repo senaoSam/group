@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/group/build/static/css/main.c371716e.chunk.css",
-    "main.js": "/group/build/static/js/main.75afc5d8.chunk.js",
+    "main.js": "/group/build/static/js/main.4ef6c7d2.chunk.js",
     "runtime-main.js": "/group/build/static/js/runtime-main.ff81c368.js",
     "static/js/2.b802e031.chunk.js": "/group/build/static/js/2.b802e031.chunk.js",
     "index.html": "/group/build/index.html",
-    "precache-manifest.11e7228c3c0aae261e60912d91811122.js": "/group/build/precache-manifest.11e7228c3c0aae261e60912d91811122.js",
+    "precache-manifest.7700fc1865f4e6d1d68e59dc4a320334.js": "/group/build/precache-manifest.7700fc1865f4e6d1d68e59dc4a320334.js",
     "service-worker.js": "/group/build/service-worker.js",
     "static/js/2.b802e031.chunk.js.LICENSE.txt": "/group/build/static/js/2.b802e031.chunk.js.LICENSE.txt",
     "static/media/main.sass": "/group/build/static/media/pulo.69e6808a.png"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.ff81c368.js",
     "static/js/2.b802e031.chunk.js",
     "static/css/main.c371716e.chunk.css",
-    "static/js/main.75afc5d8.chunk.js"
+    "static/js/main.4ef6c7d2.chunk.js"
   ]
 }
